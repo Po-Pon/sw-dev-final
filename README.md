@@ -1,4 +1,4 @@
-# sw-dev-final# วิธีการ run ผ่าน local
+# วิธีการ run ผ่าน local
 ## frontend
   1. ทำการ clone
   2. ทำการ cd ไปที่ ./frontend
