@@ -80,7 +80,7 @@ import axios from "axios"
             }
         },
         created() {
-            axios.get("http://localhost:8888/")
+            axios.get("http://localhost:3001/")
             .then((res) => {
                 this.course = res.data
                 console.log(res.data)

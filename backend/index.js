@@ -18,6 +18,8 @@ mongoose
 app.use(express.json());
 app.use(courseRoute.router);
 
-app.listen(process.env.PORT || 8888, () => {
+app.listen(process.env.PORT || 3001, () => {
     console.log("Backend server is running! on port 8888")
 });
+
+export default app
