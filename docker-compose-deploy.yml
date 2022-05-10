@@ -1,0 +1,10 @@
+version: "3" 
+services:
+  frontend:
+    image: phalat1590/final-frontend:1.0.0
+    ports:
+      - "1310:4173"
+  backend:
+    image: phalat1590/final-backend:1.0.0
+    ports:
+      - "1311:3001"
