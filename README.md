@@ -19,3 +19,7 @@
   1. ทำการ clone github ลงเครื่องโดยใช้ github desktop
   2. ทำการพิมพ์ docker-compose -f docker-compose-build.yml build backend
   3. ทำการพิมพ์ docker-compose -f docker-compose-deploy.yml up backend -d
+## Frontend & Backend
+  1. ทำการ clone github ลงเครื่องโดยใช้ github desktop
+  2. ทำการพิมพ์ docker-compose -f docker-compose-build.yml build
+  3. ทำการพิมพ์ docker-compose -f docker-compose-deploy.yml up -d
